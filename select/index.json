@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ドライブ",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2026-02-07T16:49:22.272787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/01_ドライブ_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/02_ドライブ_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/03_ドライブ_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/04_ドライブ_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/05_ドライブ_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トーキョー・ドライブ",
+      "artist": "Toki, Asako",
+      "has_synced": false,
+      "path": "select/06_トーキョー・ドライブ_Toki,_Asako.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/07_ドライブ_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "Kinoko Teikoku",
+      "has_synced": false,
+      "path": "select/08_ドライブ_Kinoko_Teikoku.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "小泉今日子",
+      "has_synced": false,
+      "path": "select/09_ドライブ_小泉今日子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "02. Drive [ドライブ]",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/10_02._Drive_[ドライブ]_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ステラ・ドライブ",
+      "artist": "七瀬佳乃(CV:青山吉能)",
+      "has_synced": true,
+      "path": "select/11_ステラ・ドライブ_七瀬佳乃(CV_青山吉能).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/12_ドライブ_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "「ドライブ　デート　都内」 (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/13_「ドライブ_デート_都内」_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "「ドライブ　デート　都内」",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/14_「ドライブ_デート_都内」_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ドライブ",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/15_ドライブ_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ドライブ・マイ・イデア",
+      "artist": "Tempalay",
+      "has_synced": true,
+      "path": "select/16_ドライブ・マイ・イデア_Tempalay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドライブ",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_ドライブ_ケツメイシ.txt"
+    }
+  ]
+}
